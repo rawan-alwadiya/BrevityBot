@@ -5,8 +5,8 @@ BrevityBot is an advanced AI-powered text summarization system designed to trans
 ## Features & API Endpoints
 
 ### Summarization
-- *Accurate and Reliable Summarization*: Delivers meaningful summaries for various text types, including academic articles, reports, and media content.  
-  *Endpoint*: /summarize
+- **Accurate and Reliable Summarization**: Delivers meaningful summaries for various text types, including academic articles, reports, and media content.  
+  **Endpoint**: /summarize
 
 ## Technology Stack
 - T5 (Fine-tuned for text summarization)
